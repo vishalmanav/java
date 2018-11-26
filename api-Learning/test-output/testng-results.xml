@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4489" started-at="2018-11-14T10:49:42Z" finished-at="2018-11-14T10:49:47Z">
+  <suite name="Default suite" duration-ms="4723" started-at="2018-11-26T09:23:17Z" finished-at="2018-11-26T09:23:22Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4489" started-at="2018-11-14T10:49:42Z" finished-at="2018-11-14T10:49:47Z">
+    <test name="Default test" duration-ms="4723" started-at="2018-11-26T09:23:17Z" finished-at="2018-11-26T09:23:22Z">
       <class name="rough.HittingFirstApi">
-        <test-method status="PASS" signature="verfyApiRestAssured()[pri:0, instance:rough.HittingFirstApi@39aeed2f]" name="verfyApiRestAssured" duration-ms="4472" started-at="2018-11-14T10:49:42Z" finished-at="2018-11-14T10:49:47Z">
+        <test-method status="PASS" signature="verfyApiRestAssured()[pri:0, instance:rough.HittingFirstApi@39aeed2f]" name="verfyApiRestAssured" duration-ms="4708" started-at="2018-11-26T09:23:17Z" finished-at="2018-11-26T09:23:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verfyApiRestAssured -->
