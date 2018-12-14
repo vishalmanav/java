@@ -5,7 +5,7 @@
     <classes>
       <class name="rough.HittingFirstApi">
         <methods>
-          <include name="verfyApi"/>
+          <include name="exportToDoc"/>
         </methods>
       </class> <!-- rough.HittingFirstApi -->
     </classes>
