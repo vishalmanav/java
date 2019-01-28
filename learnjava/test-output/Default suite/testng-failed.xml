@@ -3,11 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="learningRefelectionApi.TestReflection">
+      <class name="com.bold.learnjava.FileOperations">
         <methods>
-          <include name="learnReflection"/>
+          <include name="method1"/>
+          <include name="method2"/>
         </methods>
-      </class> <!-- learningRefelectionApi.TestReflection -->
+      </class> <!-- com.bold.learnjava.FileOperations -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
